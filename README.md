@@ -1,2 +1,2 @@
 # MyFirstUpload
-this just to learn how GitHub repositories works.
+This is Just to Learn How GitHub Repositories Works.
